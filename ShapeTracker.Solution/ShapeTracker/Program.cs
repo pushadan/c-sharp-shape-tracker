@@ -6,7 +6,7 @@ class Program{
     Console.WriteLine("~~~~~~~\n\n\n");
 
 
-    Console.WriteLine("Everything is working 👌g");
+    Console.WriteLine("Everything is working 👌");
 
     
     Console.WriteLine("\n\n\n~~~~~~~");
