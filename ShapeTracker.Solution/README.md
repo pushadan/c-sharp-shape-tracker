@@ -22,8 +22,7 @@ The area of the rectangle is displayed along with the length and width they ente
 
 ## Technical Requirements
 - C# .NET Console App
-- a Program class with a Main Function that will call our inital UI code
-- a UI class that will display options to the user
+- a Program class with a Main Function that will contain our inital UI code
 - a Data class that will store data the user seleciton
 - a Triangle class that calculates the type of triangle given three sides. 
   - an eval method for evaluation that will return the triangle type.

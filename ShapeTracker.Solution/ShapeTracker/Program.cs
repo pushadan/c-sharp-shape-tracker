@@ -1,15 +1,20 @@
 using System;
-
-class Program{
-  static void Main(){
-    // entry point
-    Console.WriteLine("~~~~~~~\n\n\n");
+using ShapeTracker.Models;
 
 
-    Console.WriteLine("Everything is working 👌");
+namespace ShapeTracker{ 
+  class Program{
+    static void Main(){
+      // entry point
+      Console.WriteLine("~~~~~~~");
+      Console.WriteLine("Everything is working 👌");
 
-    
-    Console.WriteLine("\n\n\n~~~~~~~");
+      Triangle newTriangle = new Triangle();
+      Console.WriteLine(newTriangle); //prints object type
 
+      
+      Console.WriteLine("\n\n\n~~~~~~~");
+
+    }
   }
 }
