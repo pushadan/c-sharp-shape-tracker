@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ShapeTracker.Solution", "ShapeTracker.Solution", "{805CBEE3-C610-440C-995F-2A598B16AF17}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeTracker", "ShapeTracker.Solution\ShapeTracker\ShapeTracker.csproj", "{9A02625B-3702-4D4A-89D1-708DE2DDF7C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeTracker", "ShapeTracker.Solution\ShapeTracker\c-sharp-shape-tracker.csproj", "{9A02625B-3702-4D4A-89D1-708DE2DDF7C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
